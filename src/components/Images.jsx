@@ -3,7 +3,7 @@ import {GiphyFetch} from '@giphy/js-fetch-api'
 import { Gif } from '@giphy/react-components'
 import '../styles/Images.css'
 
-export default function Images({count, setCount, /*bestCount*/}) {
+export default function Images({count, setCount }) {
 
     const [cards, setCards] = useState();
 
