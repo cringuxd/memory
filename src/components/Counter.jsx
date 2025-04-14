@@ -1,6 +1,6 @@
 import {useState} from "react";
-
-export default function Counter({count}) {
+import '../styles/Counter.css'
+export default function Counter({count/*, bestCount, setBestCount*/}) {
 
     const [bestCount, setBestCount] = useState(0);
 
