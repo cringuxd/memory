@@ -1,5 +1,7 @@
 # A Simple Memory Card Game
 
+You can play the game by following this link! [here](https://magenta-crumble-a0d06f.netlify.app/)
+
 This project serves as a demonstration of my knowledge of React through the usage of hooks (useState and useEffect) to retain changes to components.
 Below is a more in-depth explanation of the source code, alongside instructions on how to play the game.
 
